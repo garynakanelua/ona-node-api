@@ -1,0 +1,25 @@
+{
+  "name": "ona-node-api",
+  "version": "0.0.0",
+  "description": "A basic node.js api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/garynakanelua/ona-node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garynakanelua/ona-node-api/issues"
+  },
+  "dependencies": {
+  "express": "~4.0.0",
+  "mongoose": "~3.6.13",
+  "body-parser": "~1.0.1"
+  },
+  "homepage": "https://github.com/garynakanelua/ona-node-api"
+}
